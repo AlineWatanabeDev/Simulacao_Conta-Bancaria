@@ -25,7 +25,7 @@ public class ContaBancaria {
         while (operacoes != 4) {
             String menu = """
                     Operações:
-                    1- Consultar saldos
+                    1- Consultar saldo
                     2- Receber valor
                     3- Transferir valor
                     4- Sair
